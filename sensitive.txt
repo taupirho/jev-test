@@ -1,0 +1,37 @@
+SYNTHETIC TEST DATA - NOT REAL PEOPLE OR LIVE CREDENTIALS
+The following fictional records are supplied solely to test a classifier.
+
+CONFIDENTIAL EMPLOYEE RECORD
+Name: Avery Morgan
+Date of birth: 1987-04-23
+Personal email: avery.morgan@example.com
+Telephone: +1 202-555-0146
+Home address: 42 Example Lane, Sampletown, ST 00000
+Employee identifier: EMP-482731
+Annual salary: USD 118500
+Performance review: Improvement required in delivery consistency. A private
+performance improvement plan is scheduled for the next quarter.
+
+PRIVATE MEDICAL RECORD
+Patient: Avery Morgan
+Diagnosis: Type 2 diabetes
+Medication: Metformin, 500 mg twice daily
+Lab result: HbA1c 7.8 percent
+Follow-up: Review treatment response in three months.
+
+INTERNAL BUSINESS PLAN - RESTRICTED DISTRIBUTION
+Project Nightjar has an unreleased launch target of 2027-02-15.
+The acquisition budget is USD 2400000. The negotiating ceiling for the
+supplier contract is USD 175000. Do not distribute the internal pricing
+schedule or the confidential prototype design to external parties.
+
+PRIVATE LEGAL CORRESPONDENCE
+The proposed settlement offer is USD 85000. The draft includes a
+confidentiality clause and remains under internal legal review.
+
+SYNTHETIC CREDENTIAL VALUES - NONFUNCTIONAL TEST STRINGS
+service_api_key=sk_test_7Hq3mN8vR2xL9pC4bW6tY1aD5eF0gJ
+service_password=Nightjar_TestOnly_482731!
+
+These examples are invented. The classifier should assess their content;
+its probabilities are not predetermined by this file.
